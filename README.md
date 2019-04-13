@@ -21,6 +21,7 @@ import {Map} from 'immutable';
 import {createStore} from 'redux';
 import {Provider} from 'react-redux';
 
+
 //download this demo catalog https://github.com/cvdlab/react-planner/tree/master/demo/src/catalog
 import MyCatalog from './catalog/mycatalog';
 
